@@ -1,0 +1,189 @@
+.one{
+    width: 307px;
+height: 227px;
+top: 280px;
+left: 1015px;
+gap: 0px;
+border-radius: 30px 30px 0px 0px;
+opacity: 0px;
+background: #F6F2FF;
+
+
+
+}
+.two{
+    width: 307px;
+height: 227px;
+top: 280px;
+left: 1015px;
+gap: 0px;
+border-radius: 30px 30px 0px 0px;
+opacity: 0px;
+background: #F6F2FF;
+
+
+}
+.three{
+    width: 307px;
+height: 227px;
+top: 280px;
+left: 1015px;
+gap: 0px;
+border-radius: 30px 30px 0px 0px;
+opacity: 0px;
+background: #F6F2FF;
+
+
+}
+.four{
+    width: 307px;
+height: 227px;
+top: 280px;
+left: 1015px;
+gap: 0px;
+border-radius: 30px 30px 0px 0px;
+opacity: 0px;
+background: #F6F2FF;
+
+
+}
+.five{
+width: 307px;
+height: 227px;
+top: 280px;
+left: 1015px;
+gap: 0px;
+border-radius: 30px 30px 0px 0px;
+opacity: 0px;
+background: #F6F2FF;
+
+}
+
+.six{
+    width: 307px;
+height: 227px;
+top: 280px;
+left: 1015px;
+gap: 0px;
+border-radius: 30px 30px 0px 0px;
+opacity: 0px;
+background: #F6F2FF;
+
+
+}
+
+.hotbar {
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+  
+    justify-content: space-between;
+   
+
+}
+.area {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.ALEA {
+    width: 300;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.font{ font-family: Karla;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29.23px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;}
+
+    .mainpage {
+        display: flex;
+        justify-content: space-around;
+        margin: 80px;
+    }
+    .mainpage2 {
+        display: flex;
+        justify-content: space-around;
+        height: 200px;
+        margin: 80px;
+    }
+
+.areaformain {
+    display: flex;
+    flex-direction: column;
+}
+
+.fontchair 
+    {
+        font-family: "Yeseva One", serif;
+        font-weight: 400;
+        font-style: normal; }
+
+        .chairimg {
+            width: 190px;
+            height: 190px;
+            top: 410px;
+            left: 173px;
+            gap: 0px;
+            opacity: 0px;
+            
+
+        }
+.closetimg{
+    width: 294px;
+height: 220px;
+top: 395px;
+left: 573px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.dresserimg{
+    width: 294px;
+height: 220px;
+top: 395px;
+left: 573px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.fontdresser  {
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal; }
+
+    .carpetimg{
+        width: 294px;
+    height: 220px;
+    top: 395px;
+    left: 573px;
+    gap: 0px;
+    opacity: 0px;
+    
+    }
+    
+    .fontcarpet {
+        font-family: "Yeseva One", serif;
+        font-weight: 400;
+        font-style: normal; }
+
+        .curtianimg{
+            width: 294px;
+        height: 220px;
+        top: 395px;
+        left: 573px;
+        gap: 0px;
+        opacity: 0px;
+        
+        }
+        
+        .fontcurtian  {
+            font-family: "Yeseva One", serif;
+            font-weight: 400;
+            font-style: normal; }

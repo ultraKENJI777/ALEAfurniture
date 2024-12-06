@@ -1,0 +1,56 @@
+.hotbar {
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+  
+    justify-content: space-between;
+}
+
+
+.area {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.ALEA {
+    width: 300;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.purplearea {
+    width: 446px;
+    height: 345px;
+    background-color: rgb(188, 119, 196);}
+
+.IMG {
+  
+    width: 446px;
+    height: 345px;
+}
+.immg {
+    display: flex;
+  
+}
+.bsf {display: flex;
+flex-direction: row;}
+
+.mission {
+    color: blueviolet;
+}
+
+.download {
+    width: 446px;
+    height: 345px;
+}
+.bottomb1tch {
+    display: flex;
+    justify-content: space-around;
+}
+
+.p {
+    height: 600px;
+    width: 400px;
+    display: flex;
+}
